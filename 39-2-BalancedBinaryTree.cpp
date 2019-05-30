@@ -53,4 +53,8 @@ int main()
 	return 0;
 }
 
+// 输入一棵二叉树，判断该二叉树是否是平衡二叉树。
 // use post order instead of pre order to avoid visiting the same node multi times 
+// 运行时间：4ms
+
+// 占用内存：476k
