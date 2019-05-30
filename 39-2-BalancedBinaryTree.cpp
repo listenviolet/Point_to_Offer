@@ -52,3 +52,5 @@ int main()
 	cout << isBalanced(node1) << endl;
 	return 0;
 }
+
+// use post order instead of pre order to avoid visiting the same node multi times 
